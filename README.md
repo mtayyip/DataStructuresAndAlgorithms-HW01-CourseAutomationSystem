@@ -1,6 +1,4 @@
-# hw01
-cse222
-Muhammet Tayyip ÇANKAYA-131044054
+# Hw01
 ********************************************************************************
 Senaryo 1,2-->Kullanicilar sisteme ekleniyor.
 
